@@ -9,9 +9,6 @@
 
 ---
 
-<a href="https://github.com/kaduartur">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaduartur&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/kaduartur">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduartur&layout=compact" />
-</a>
+![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=kaduartur&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaduartur&layout=compact)
+
