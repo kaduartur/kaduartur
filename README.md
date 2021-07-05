@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at @ZupIT
+- 🔭 I’m currently working at @PicPay
 - 🌱 I’m currently learning best practice in Golang
 - 👯 I’m looking to collaborate on Golang projects
 - 💬 Ask me about Golang, Kotlin, Spring boot and Hashicorp Vault
