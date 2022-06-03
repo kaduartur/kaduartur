@@ -1,11 +1,10 @@
+Hi there 👋
 
-
-
-
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
-
-My name is Kadu Artur Prussek. I work as a Senior Software Engineer at Mercado Livre.
+- 🔭 My name is Kadu Artur Prussek. I work as a Senior Software Engineer at @mercadolibre
+- 👯 I’m looking to collaborate on Golang projects
+- 💬 Ask me about Go, Kotlin, Spring boot and Hashicorp Vault
+- 📫 How to reach me: E-mail or Linkedin
+- ⚡ Hobbies: I like to ride BMX and to play FPS games on PC
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaduartur&repo=kaduartur&countColorcountColor)
 
@@ -15,11 +14,9 @@ My name is Kadu Artur Prussek. I work as a Senior Software Engineer at Mercado L
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaduartur&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=kaduartur&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaduartur&hide_border=true)
+![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=kaduartur&show_icons=true&count_private=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaduartur&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaduartur)
 
 ### Let's connect? 🤝
 
