@@ -15,7 +15,7 @@ Hi there 👋
 ### Analytics ⚙️
 
 ![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=kaduartur&show_icons=true&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=kaduartur&hide_border=false)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=kaduartur)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaduartur)
 
 ### Let's connect? 🤝
