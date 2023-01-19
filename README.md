@@ -12,12 +12,6 @@ Hi there 👋
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;  
 
 
-### Analytics ⚙️
-
-![Kadu's github stats](https://github-readme-stats.vercel.app/api?username=kaduartur&show_icons=true&count_private=true)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=kaduartur)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaduartur)
-
 ### Let's connect? 🤝
 
 <p align="left">
