@@ -2,9 +2,8 @@ Hi there 👋
 
 - 🔭 My name is Kadu Artur Prussek. I work as a Senior Software Engineer at @mercadolibre
 - 👯 I’m looking to collaborate on Golang projects
-- 💬 Ask me about Go, Kotlin, Spring boot and Hashicorp Vault
+- 💬 Ask me about Go, Kotlin, Spring Boot, and Hashicorp Vault
 - 📫 How to reach me: E-mail or Linkedin
-- ⚡ Hobbies: I like to ride BMX and to play FPS games on PC
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaduartur&repo=kaduartur&countColorcountColor)
 
